@@ -1,5 +1,5 @@
-### Download the contents of "Harry Potter and the Goblet of fire" using the command line from given URL ###
+ <h2>Download the contents of "Harry Potter and the Goblet of fire" using the command line from given URL </h2>
 
 
-## Command to download ##
+ <h3>Command to download </h3>
 wget https://raw.githubusercontent.com/bobdeng/owlreader/master/ERead/assets/books/Harry%20Potter%20and%20the%20Goblet%20of%20Fire.txt
