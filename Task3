@@ -1,0 +1,5 @@
+
+command
+
+
+abhishek@abhishek-Lenovo-ideapad-330-15AST:~/Desktop/harrypotter$ tail -10 head -3 'Harry Potter and the Goblet of Fire.txt'
