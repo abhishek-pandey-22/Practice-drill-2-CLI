@@ -1,0 +1,4 @@
+print line from 100 to 200
+
+
+abhishek@abhishek-Lenovo-ideapad-330-15AST:~/Desktop/harrypotter$ head -100 'Harry Potter and the Goblet of Fire.txt'| tail -200 'Harry Potter and the Goblet of Fire.txt'
