@@ -1,0 +1,5 @@
+Print first 3 line from book
+
+command
+
+head -3 'Harry Potter and the Goblet of Fire.txt'
